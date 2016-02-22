@@ -48,7 +48,23 @@ h3{
     font-size:25PT;
 }
 
+A:LINK{
+
+    COLOR: aqua;
+}
+
+A:HOVER{
+
+    COLOR: red;
+}
+
 #signupbox{
 
     font-size:30PT;
+}
+
+div {
+    width: 500px;
+    height: 100px;
+    border: 3px solid #73AD21;
 }
