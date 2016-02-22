@@ -29,8 +29,9 @@ header{
 footer{
 
     COLOR: #ff0000;
-    font-size:8PT;
+    font-size:5PT;
     font-family: sans-serif;
+    text-align: right;
 }
 
 main{
