@@ -71,3 +71,7 @@ div {
 body {
     background-color: lightblue;
 }
+
+p::after {
+    content: "Smileyyyyyy ";
+}
