@@ -15,9 +15,13 @@ h2{
 
 p{
     COLOR: #006400;
+    font-size:14PT;
+    font-family: "VERDANA";
 }
 
 header{
 
     COLOR: #ff0000;
+    font-size:20PT;
+    font-family: sans-serif;
 }
