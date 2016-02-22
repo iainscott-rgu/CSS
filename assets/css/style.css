@@ -3,7 +3,16 @@
 
 
 
-*{
+h1{
 
-    COLOR: coral;
+    COLOR: #ff7f50;
+}
+
+p{
+    COLOR: #006400;
+}
+
+header{
+
+    COLOR: #008080;
 }
