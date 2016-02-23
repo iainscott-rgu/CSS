@@ -81,7 +81,7 @@ body {
 
 }
 
-footer::after {
+footer>p::after {
     content: "........................................Smileyyyyyy!!!!!! ";
 
 }
