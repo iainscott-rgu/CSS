@@ -45,26 +45,13 @@ main{
     font-family: 'Shadows Into Light', cursive;
 }
 
-#mugContainer{
+#mugContainer>p{
 
     font-weight: bold;
     font-family: 'Shadows Into Light', cursive;
 
 }
 
-#mugContainer2{
-
-    font-weight: bold;
-    font-family: 'Shadows Into Light', cursive;
-
-}
-
-#mugContainer3{
-
-    font-weight: bold;
-    font-family: 'Shadows Into Light', cursive;
-
-}
 
 h3{
     font-size:25PT;
