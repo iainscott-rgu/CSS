@@ -11,7 +11,7 @@ h1{
 
 h2{
 
-    COLOR: burlywood;
+    COLOR: #ff0000;
     font-family: 'Shadows Into Light', cursive;
 }
 
@@ -80,5 +80,5 @@ body {
 }
 
 p::after {
-    content: "   Smileyyyyyy ";
+    content: "                                                         Smileyyyyyy!!!!!! ";
 }
