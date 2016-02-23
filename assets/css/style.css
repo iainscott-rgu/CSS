@@ -50,6 +50,7 @@ main{
 
     font-weight: bold;
     font-family: 'Shadows Into Light', cursive;
+    height: 300px;
 
 }
 
@@ -91,6 +92,6 @@ footer>p::after {
 }
 
 img{
-
+    height: 200px;
     float: left;
 }
