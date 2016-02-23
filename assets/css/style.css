@@ -87,3 +87,8 @@ footer>p::after {
     content: "........................................Smileyyyyyy!!!!!! ";
 
 }
+
+#mugContainer>p{
+
+    float: left;
+}
