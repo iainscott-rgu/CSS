@@ -50,6 +50,7 @@ main{
 
     font-weight: bold;
     font-family: 'Shadows Into Light', cursive;
+    float: left;
 }
 
 h3{
@@ -88,7 +89,3 @@ footer>p::after {
 
 }
 
-#mugContainer>p{
-
-    float: left;
-}
