@@ -6,17 +6,19 @@
 h1{
 
     COLOR: #ff7f50;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 h2{
 
     COLOR: burlywood;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 p{
     COLOR: #006400;
     font-size:14PT;
-    font-family: "VERDANA";
+    font-family: 'Shadows Into Light', cursive;
 }
 
 header{
@@ -43,10 +45,12 @@ main{
 #mugContainer{
 
     font-weight: bold;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 h3{
     font-size:25PT;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 A:LINK{
@@ -62,6 +66,7 @@ A:HOVER{
 #signupbox{
 
     font-size:30PT;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 div {
